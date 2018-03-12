@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\SolitaireChipher\SolitaireChipher\bin\Debug\SolitaireChipher.exe.config
+C:\Users\admin\source\repos\SolitaireChipher\SolitaireChipher\bin\Debug\SolitaireChipher.exe
+C:\Users\admin\source\repos\SolitaireChipher\SolitaireChipher\bin\Debug\SolitaireChipher.pdb
+C:\Users\admin\source\repos\SolitaireChipher\SolitaireChipher\obj\Debug\SolitaireChipher.csprojResolveAssemblyReference.cache
+C:\Users\admin\source\repos\SolitaireChipher\SolitaireChipher\obj\Debug\SolitaireChipher.Form1.resources
+C:\Users\admin\source\repos\SolitaireChipher\SolitaireChipher\obj\Debug\SolitaireChipher.Properties.Resources.resources
+C:\Users\admin\source\repos\SolitaireChipher\SolitaireChipher\obj\Debug\SolitaireChipher.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\SolitaireChipher\SolitaireChipher\obj\Debug\SolitaireChipher.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\SolitaireChipher\SolitaireChipher\obj\Debug\SolitaireChipher.exe
+C:\Users\admin\source\repos\SolitaireChipher\SolitaireChipher\obj\Debug\SolitaireChipher.pdb

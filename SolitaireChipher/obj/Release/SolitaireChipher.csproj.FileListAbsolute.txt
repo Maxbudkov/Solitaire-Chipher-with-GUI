@@ -1,0 +1,9 @@
+C:\Users\admin\source\repos\SolitaireChipher\SolitaireChipher\bin\Release\SolitaireChipher.exe.config
+C:\Users\admin\source\repos\SolitaireChipher\SolitaireChipher\bin\Release\SolitaireChipher.exe
+C:\Users\admin\source\repos\SolitaireChipher\SolitaireChipher\bin\Release\SolitaireChipher.pdb
+C:\Users\admin\source\repos\SolitaireChipher\SolitaireChipher\obj\Release\SolitaireChipher.MainForm.resources
+C:\Users\admin\source\repos\SolitaireChipher\SolitaireChipher\obj\Release\SolitaireChipher.Properties.Resources.resources
+C:\Users\admin\source\repos\SolitaireChipher\SolitaireChipher\obj\Release\SolitaireChipher.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\SolitaireChipher\SolitaireChipher\obj\Release\SolitaireChipher.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\SolitaireChipher\SolitaireChipher\obj\Release\SolitaireChipher.exe
+C:\Users\admin\source\repos\SolitaireChipher\SolitaireChipher\obj\Release\SolitaireChipher.pdb
